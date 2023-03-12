@@ -1,0 +1,87 @@
+[
+  {
+    "id": "SJKhIAKYB",
+    "from": "system",
+    "text": "Welcome!"
+  },
+  {
+    "id": "JNVKV8tQIwQl65cIOksmw",
+    "from": "alice",
+    "text": "Hello"
+  },
+  {
+    "id": "x1hC8k4GMjyVA8QsPJMbV",
+    "from": "alice",
+    "text": "How are you ??"
+  },
+  {
+    "id": "nVZPBkIHC9RYUQiVf9Z1c",
+    "from": "alice",
+    "text": "Hi Again!"
+  },
+  {
+    "id": "Sudzfatv_lVol22O9m6Zz",
+    "from": "alice",
+    "text": "Wow, it's working. "
+  },
+  {
+    "id": "8xuqijPHX6lPvKJ-FV2ej",
+    "from": "bob",
+    "text": "Hi, I am bod"
+  },
+  {
+    "id": "540Gr0z5j2G8KTRzJxCt1",
+    "from": "bob",
+    "text": "Sorry, I meant Bob! "
+  },
+  {
+    "id": "5vLfvqKgb5J21WVzdHuGh",
+    "from": "bob",
+    "text": "Hi. This uses subscriptions"
+  },
+  {
+    "id": "P9uEPFeLuH0rK2OORTcMX",
+    "from": "bob",
+    "text": "Ok, it's working man!"
+  },
+  {
+    "id": "_llg-4P5xfz-PsW38aNXm",
+    "from": "alice",
+    "text": "Hi new messag!"
+  },
+  {
+    "id": "PWg9nqjvY3mBu9kpnzwiS",
+    "from": "bob",
+    "text": "New message"
+  },
+  {
+    "id": "eesAva29DXibYhv-F9dWk",
+    "from": "alice",
+    "text": "Test new message on both sides."
+  },
+  {
+    "id": "UwqrDUMTvUT0BAvyA8y06",
+    "from": "alice",
+    "text": "Why did it come twice ?"
+  },
+  {
+    "id": "dDGEZNVFUgujgv503B0UU",
+    "from": "alice",
+    "text": "New message"
+  },
+  {
+    "id": "AMBlaq5bBIWgJycXyZ9iJ",
+    "from": "alice",
+    "text": "Now it's working!"
+  },
+  {
+    "id": "N-nwpx0cCN--rgxMT5Zt_",
+    "from": "bob",
+    "text": "Hi New message"
+  },
+  {
+    "id": "jgF_WRdId7CBCgYaAkQ6N",
+    "from": "alice",
+    "text": "I see, It works Man!"
+  }
+]
